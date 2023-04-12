@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PlakDukkani_Onion.Domain\PlakDukkani_Onion.Domain.csproj" />
+    <ProjectReference Include="..\PlakDukkani_Onion.Infastructure\PlakDukkani_Onion.Infastructure.csproj" />
+  </ItemGroup>
+
+</Project>
